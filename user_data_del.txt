@@ -1,0 +1,6 @@
+User Data Deletion Instructions
+If you wish to delete your data associated with our app from Facebook, you can do so by following these steps:
+
+Open the settings of our app.
+Click on the Delete My Facebook Data button.
+This action will trigger a request to permanently delete all of your data stored in our system that is associated with your Facebook account.
